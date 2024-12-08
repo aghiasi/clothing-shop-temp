@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Varela+Round&display=swap');
+.backgroundHead{
+    background-image:    linear-gradient(
+        rgba(51, 48, 48, 0.45), 
+        rgba(78, 97, 122, 0.575)
+      ), url(../../static/img/photo-1534854638093-bada1813ca19\ \(1\).avif);
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: "Anton", sans-serif;
+    font-style: normal;
+    padding:20px;
+    backdrop-filter: #00000081;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    & h3 {
+        padding-top: 150px;
+        padding-bottom: 10px;
+    }
+    & div{
+        margin: 20px;
+    }
+    & h6 {
+        padding: 20px;
+    }
+    & button{
+        height: 50px;
+        font-size: large;
+    }
+}
+.noRadius{
+    border-radius: 0;
+}
+.divider{
+    width: 100px;
+    height: 8px;
+    background-color: red;
+}
+.arrow{
+    margin-top: 200px;
+    color: rgb(231, 181, 93);
+    scale: 1.3;
+}

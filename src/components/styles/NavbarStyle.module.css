@@ -1,0 +1,25 @@
+.navbar {
+  background-color: #28282a;
+  color: white;
+  position: sticky;
+  z-index: 2;
+  top: 0;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: baseline;
+  align-content: baseline;
+  & div {
+    position: relative;
+    top: 2px;
+    width: 400px;
+    margin-bottom: 5px;
+  }
+  & button {
+    width: 50%;
+    display: block;
+    margin: 20px auto;
+  }
+}

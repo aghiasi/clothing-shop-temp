@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f4b28fef.css",
+    "main.js": "/static/js/main.cf22f908.js",
+    "static/js/453.30a2842d.chunk.js": "/static/js/453.30a2842d.chunk.js",
+    "static/media/photo-1534854638093-bada1813ca19 (1).avif": "/static/media/photo-1534854638093-bada1813ca19 (1).9bbd659a4990871c6bfb.avif",
+    "static/media/image-creator-B03_mapletree.webp": "/static/media/image-creator-B03_mapletree.e5045847a0729434058b.webp",
+    "static/media/js.jpg": "/static/media/js.f83507b78d9df7d9628b.jpg",
+    "static/media/productValues2.svg": "/static/media/productValues2.5edb4c49adabfa616238f705a0232b06.svg",
+    "static/media/productValues3.svg": "/static/media/productValues3.8916fad18830840bc9947acfa0c0ee88.svg",
+    "static/media/productHowItWorks1.svg": "/static/media/productHowItWorks1.04e0f134d5362fbe92c846e7e3c40009.svg",
+    "static/media/productHowItWorks2.svg": "/static/media/productHowItWorks2.8a07010149cb9109dca0b24686756c71.svg",
+    "static/media/productHowItWorks3.svg": "/static/media/productHowItWorks3.93b8708e9c1840642aafa9aa509b07f7.svg",
+    "static/media/productValues1.svg": "/static/media/productValues1.3b851999cb1c9f5ec205f1871f8ae032.svg",
+    "index.html": "/index.html",
+    "main.f4b28fef.css.map": "/static/css/main.f4b28fef.css.map",
+    "main.cf22f908.js.map": "/static/js/main.cf22f908.js.map",
+    "453.30a2842d.chunk.js.map": "/static/js/453.30a2842d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4b28fef.css",
+    "static/js/main.cf22f908.js"
+  ]
+}

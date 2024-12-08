@@ -1,0 +1,33 @@
+/* topSection and svg styles  */
+.container {
+  background-image: url("/src/static/img/js.jpg");
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: fit-content;
+  padding-bottom: 20px;
+  height: max-content;
+}
+.wallet {
+  width: 80px;
+}
+.box {
+  margin-top: 20px;
+  margin-bottom: 30px;
+  display: flex;
+  justify-content: start;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  & * {
+    padding: 5px;
+  }
+  & h6 {
+    font-size: medium;
+    color: gray;
+  }
+}
+.footer {
+  background-image: url("../../static//img/js.jpg");
+}
